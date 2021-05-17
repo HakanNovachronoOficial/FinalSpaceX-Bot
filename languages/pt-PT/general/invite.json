@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Shows Vanilla links!",
+    "USAGE": "{{prefix}}invite (copy)",
+    "EXAMPLES": "{{prefix}}invite\n{{prefix}}invite copy",
+    "LINKS": "Atlanta links",
+    "TIP": "Enviar `{{prefix}}invite copy` para poder copiar o link do convite!",
+    "ADD": "Convidar Vanilla para seu server!",
+    "VOTE": "Vote em Vanilla",
+    "SUPPORT": "Suporte oficial"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Comando de Autorole!",
+    "USAGE": "{{prefix}}autorole [on/off] (cargo)",
+    "EXAMPLES": "{{prefix}}autorole on @Membros\n{{prefix}}autorole off",
+    "MISSING_STATUS": "Defina `on` ou `off`",
+    "MISSING_ROLE": "Cargo invalido!",
+    "SUCCESS_ENABLED": "Autorole ativada! Novos membros receberão automaticamente a role **{{roleName}}** .",
+    "ALREADY_DISABLED": "**O auto role está desativcado.**\n\n:arrow_right_hook: *Pergunte `{{prefix}}autorole e @YourRole` agora!*",
+    "SUCCESS_DISABLED": "**Autorole Desattivado!**\n\n:arrow_right_hook: *Answer by sending `{{prefix}}configuration` to see the updated configuration!*"
+}

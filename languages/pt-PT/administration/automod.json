@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Para os convites no server!",
+    "USAGE": "{{prefix}}automod [on/off] (#canal)",
+    "EXAMPLES": "{{prefix}}automod on\n{{prefix}}automod off #geral\n{{prefix}}automod off",
+    "MISSING_STATUS": "Defina `on` ou `off`",
+    "ENABLED": "**Convites serão deletados a partir de agora!**\n\n:arrow_right_hook: *Pergunte para enviar `{{prefix}}automod off #channel` to ignore a channel!*",
+    "DISABLED_CHANNEL": "Auto-moderation está desativado no {{channel}}!",
+    "DISABLED": "Tudo certo! A moderação automática não está mais ativa neste servidor!",
+    "DELETED": "Sua mensagem foi deleta não tente enviar links aqui!"
+}

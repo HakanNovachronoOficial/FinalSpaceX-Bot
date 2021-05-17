@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Translate your text!",
+    "USAGE": "{{prefix}}translate [language] [message]",
+    "EXAMPLES": "{{prefix}}translate fr Como você está?",
+    "LIST_SENT": "Mandei as linguagens na sua DM!",
+    "MISSING_LANGUAGE": "Coloque uma linguagem! Para ver as linguas que falo, use `{{prefix}}translate langs-list`!",
+    "INVALID_LANGUAGE": "A linguagem, `{{search}}` não existe! Para ver as linguas que falo, use  `{{prefix}}translate langs-list`!",
+    "MISSING_CONTENT": "Por favor, insira um texto a ser traduzido!"
+}

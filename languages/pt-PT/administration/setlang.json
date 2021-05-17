@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Muda o idioma do servidor!",
+    "USAGE": "{{prefix}}setlang [idioma]",
+    "EXAMPLES": "{{prefix}}setlang pt\n{{prefix}}setlang english",
+    "MISSING_LANG": "Por favor use uma linguagem valida!: {{list}}",
+    "SUCCESS": ":flag_br: O idioma deste servidor é agora português!"
+}

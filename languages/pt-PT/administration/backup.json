@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "Faça backup de seu server!",
+    "USAGE": "{{prefix}}backup [create/load/infos]",
+    "EXAMPLES": "{{prefix}}backup create\n{{prefix}}backup load 558328638911545423\n{{prefix}}backup infos 558328638911545423",
+    "MISSING_STATUS": "Selecione a ação: `create`, `load` ou `info`!",
+    "MISSING_BACKUP_ID": "Insere um ID de backup!",
+    "NO_BACKUP_FOUND": "Nenhum backup encontrado com o ID `{{backupID}}`",
+    "TIMES_UP": "Acabou o tempo! Carregamento do backup cancelado!",
+    "SUCCESS_PUBLIC": "Backup criado com sucesso! O id foi enviado em sua DM!",
+    "SUCCESS_PRIVATE": "Seu Backup ID é: `{{backupID}}`, use isso para carregar o server!",
+    "CONFIRMATION": ":warning: | **Carregar o ID do backup atual irá substituir todos os seus itens.**\n\n:arrow_right_hook: *Para confirmar escreva `confirm` para confirmar a ação!*",
+    "START_LOADING": "Backup loading iniciado!",
+    "LOAD_SUCCESS": "Backup carregado com sucesso!",
+    "TITLE_INFOS": "Backup Information",
+    "TITLE_ID": "ID",
+    "TITLE_SERVER_ID": "ID do servidor",
+    "TITLE_SIZE": "Tamanho",
+    "TITLE_CREATED_AT": "Criado a"
+}

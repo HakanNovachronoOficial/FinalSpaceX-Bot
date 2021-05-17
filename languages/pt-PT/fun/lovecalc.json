@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Quantos % você e seu @ se amam?*",
+    "USAGE": "{{prefix}}lovecalc [@membro1] (@membro2)",
+    "EXAMPLES": "{{prefix}}lovecalc @HakanNovachrono#0001\n{{prefix}}lovecalc @HakanNovachrono#0001 @Vanilla",
+    "MISSING": "Você deve mencionar dois membros!",
+    "CONTENT": "Eles se amam.. Hmmm...**{{percent}}%** de amor entre **{{firstUsername}}** e **{{secondUsername}}**!\n**Parábens ao casal!**"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Deletar as sansões de um membro!",
+    "USAGE": "{{prefix}}clear-sanctions [@membro]",
+    "EXAMPLES": "{{prefix}}clear-sanctions @HakanNovachrono#0001",
+    "MISSING_MEMBER": "Mencione um membro para deletar as sansões do membro!",
+    "SUCCESS": "**{{username}}**'s sansões foram deletadas!"
+}

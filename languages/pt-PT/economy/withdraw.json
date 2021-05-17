@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Retirar dinheiro!",
+    "USAGE": "{{prefix}}withdraw [amount]",
+    "EXAMPLES": "{{prefix}}withdraw 400",
+    "MISSING_AMOUNT": "Especifique um valor a ser retirado!",
+    "NO_CREDIT": "Você não tem credito no banco!",
+    "NOT_ENOUGH": "Você precisa de `{{money}}` credit(s)!",
+    "SUCCESS": "**{{money}}** credit(s) depositado!!"
+}

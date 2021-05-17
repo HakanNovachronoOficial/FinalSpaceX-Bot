@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Gerar um QRcode com uma frase",
+    "USAGE": "{{prefix}}qrcode [text]",
+    "EXAMPLES": "{{prefix}}qrcode Olá",
+    "MISSING_TEXT": "Por favor espefique um texto para gerar o QRcode!",
+    "SUCCESS": "Esse é seu QRcode!"
+}

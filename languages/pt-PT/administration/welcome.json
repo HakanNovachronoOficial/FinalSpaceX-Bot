@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Toggle welcome messages!",
+    "USAGE": "{{prefix}}welcome",
+    "EXAMPLES": "{{prefix}}welcome",
+    "MISSING_STATUS": "Você deve especificar `edit` ou `off`",
+    "DEFAULT_MESSAGE": "Bem-Vindo(a) {user} ao {server}, você é o membro {membercount}! Sua conta foi criada em {createdat}.",
+    "TEST_SUCCESS": "Teste executado!",
+    "FORM_1": "**Em qual channel irá enviar esta mensagem?**\n\n:arrow_right_hook: *Responda mencionando o canal!*",
+    "FORM_2": "**Diga onde será o canal de welcome.**\n\n**Isso pode ter:**\n*-* __Menção do membro__: {user}\n*-* __Contagem de membro__: {membercount}\n*-* __Nome do server__: {server}\n\n**Por exemplo:**\nBem-vindo(a) ao {server}, {user}! Você é o {membercount}!\n:fast_forward:\nBem-Vindo(a) ao {{guildName}}, {{author}}! Você é o {{memberCount}}!",
+    "FORM_3": "**Você gostaria de imagem tambem?**\n\n:arrow_right_hook: *Diga `sim` ou `não`!*",
+    "FORM_SUCCESS": "**Okay, vou colocar!**\n\n:arrow_right_hook: *Escreva abaixo para responder `{{prefix}}welcome test`para ver sua mensagem de welcome personalizada!*",
+    "DISABLED": "**Mensagens de adeus desativadas com sucesso!**\n\n:arrow_right_hook: *Escreva `{{prefix}}configuration` para dar update no server!*",
+    "IMG_WELCOME": "Bem-vindo/a ao servidor {{server}}!",
+    "IMG_NB": "- {{memberCount}}° membro!",
+    "TITLE": "BEM-VINDO/A"
+}

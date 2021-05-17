@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Envie dinheiro para alguém!",
+    "USAGE": "{{prefix}}pay [@membro] [amount]",
+    "EXAMPLES": "{{prefix}}pay @HakanNovachrono#0001 100",
+    "INVALID_MEMBER": "Você deve mencionar um membro valido!",
+    "BOT_USER": "Bots já são ricos 💰!",
+    "YOURSELF": "Você não pode se pagar!",
+    "INVALID_AMOUNT": "Especifique o dinheiro!",
+    "ENOUGH_MONEY": "Você não tem a quantia **{{amount}}**",
+    "SUCCESS": "Você acabou de pagar **{{amount}}** para **{{username}}**!"
+}

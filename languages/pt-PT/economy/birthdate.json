@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Set the birthday date that appear on your profile",
+    "USAGE": "{{prefix}}birthdate (data)",
+    "EXAMPLES": "{{prefix}}birthdate 01/12/2000",
+    "MISSING_DATE": " Por favor insira uma data válida! Por exemplo, 01/12/2000",
+    "INVALID_DATE": " Use o exemplo para colocar uma data: DD/MM/YYYY. por exemplo, `December 1, 2000` ou também `01/12/2000`.",
+    "INVALID_DATE_FORMAT": " Use o exemplo para colocar uma data: DD/MM/YYYY. por exemplo, `December 1, 2000` ou também `01/12/2000`.",
+    "DATE_TOO_HIGH": "Humm, nop! Acho muito dificil!",
+    "DATE_TOO_LOW": "Mais de 80 anos? :eyes:",
+    "SUCCESS": " O seu aniversário foi marcado para {{date}}!"
+}

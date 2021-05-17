@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Eu estou te dizendo a verdade!",
+    "USAGE": "{{prefix}}8ball [question]",
+    "EXAMPLES": "{{prefix}}8ball Vanilla é o melhor bot para discord?",
+    "ERR_QUESTION": "Você deve fazer uma pergunta!",
+    "RESPONSE_1": "Estou certo disso.",
+    "RESPONSE_2": "É definitivamente seguro.",
+    "RESPONSE_3": "Sim definitivamente.",
+    "RESPONSE_4": "Melhor não te dizer agora.",
+    "RESPONSE_5": "Pergunte novamente mais tarde.",
+    "RESPONSE_6": "Não conte com isso.",
+    "RESPONSE_7": "Eu não acho.",
+    "RESPONSE_8": "Minhas fontes dizem não.",
+    "RESPONSE_9": "Não.",
+    "RESPONSE_10": "a perspectiva não é tão boa."
+}

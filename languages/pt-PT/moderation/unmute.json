@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Unmute membro mencionado!",
+    "USAGE": "{{prefix}}unmute [@membro]",
+    "EXAMPLES": "{{prefix}unmute @HakanNovachrono#0001",
+    "MISSING_MEMBER": "Por favor, especifique o membro que você deseja unmute!",
+    "NOT_MUTED": "**{{username}}** não está mutado!",
+    "SUCCESS": "**{{username}}** acabou de ficar unmuted!",
+    "SUCCESS_CASE": "{{user}} (`{{usertag}}`) foi desmutado por {{moderator}} ! (Motivo do mute: #{{count}})"
+}

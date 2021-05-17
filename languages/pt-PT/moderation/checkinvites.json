@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Verificar quantos invites tem uma pessoa!",
+    "USAGE": "{{prefix}}checkinvites",
+    "EXAMPLES": "{{prefix}}checkinvites",
+    "NOBODY": "Não tem invites!"
+}

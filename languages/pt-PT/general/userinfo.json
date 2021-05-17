@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Mostra informações do usuário!",
+    "USAGE": "{{prefix}}userinfo (@user/userID)",
+    "EXAMPLES": "{{prefix}}userinfo\n{{prefix}}userinfo @HakanNovachrono#0001\n{{prefix}}userinfo 277671488440631297",
+    "INVALID_USER": "No user on Discord has the `{{search}}` ID!",
+    "NO_GAME": "Não está jogando",
+    "NO_ROLE": "Sem Cargo",
+    "NO_NICKNAME": "Sem Apelido",
+    "MORE_ROLES": "e {{count}} outros cargos",
+    "BOT_STATS": "**{{votes}}** votes ([top.gg](https://top.gg))\n**{{servers}}** servers\n**{{shards}}** shards\nUsing **{{lib}}**"
+}

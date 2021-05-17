@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Bana um membro mencionado!",
+    "USAGE": "{{prefix}}ban [@menção-do-utilizador] (razão)",
+    "EXAMPLES": "{{prefix}ban @HakanNovachrono#0001 Spam",
+    "MISSING_MEMBER": "Especifica um membro válido para banir!",
+    "YOURSELF": "Ei! Os deuses não deixam você se punir!",
+    "SUPERIOR": "Caramba, meu martelo quebrou quando fui tentar banir ele, nem mesmo meus poderes podem se comparar ao dele!",
+    "ALREADY_BANNED": "**{{username}}** já foi banido!",
+    "MISSING_PERM": "Ops... Cheque se eu tenho a permissão de **banir membros**, depois tente novamente!",
+    "BANNED_DM": "Olá {{username}},\nvocê foi banido de **{{server}}** por **{{moderator}}** pelo motivo: **{{reason}}**!",
+    "BANNED": "**{{username}}** foi banido do server **{{server}}** por **{{moderator}}** pelo motivo: **{{reason}}**!",
+    "CASE": "Banimento | Caso #{{count}}"
+}

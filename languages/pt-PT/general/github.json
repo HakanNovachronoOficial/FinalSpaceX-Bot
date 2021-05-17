@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Quem me criou?",
+    "USAGE": "{{prefix}}owner",
+    "EXAMPLES": "{{prefix}}owner",
+    "CLICK_HERE": "Clica para entrar no server do dono!",
+    "LANGUAGE": "Phyton,C##",
+    "OWNER": "Hakan Novachrono"
+}

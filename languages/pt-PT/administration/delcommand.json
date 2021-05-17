@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Remove o custom command!",
+    "USAGE": "{{prefix}}delcommand [nome-do-comando]",
+    "EXAMPLES": "{{prefix}}delcommand Oi",
+    "MISSING_NAME": "Coloque um comando customizado valido!",
+    "UNKNOWN_COMMAND": "O comando {{commandName}} não existe!",
+    "SUCCESS": "O comando {{commandName}} foi removido do servidor!"
+}

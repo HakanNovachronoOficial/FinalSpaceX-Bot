@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Mostra usuários com mais créditos, níveis ou pontos de reputação!",
+    "USAGE": "{{prefix}}leaderboard [rep/levels/credits]",
+    "EXAMPLES": "{{prefix}}leaderboard credits\n{{prefix}}leaderboard levels",
+    "MISSING_TYPE": "Por favor especifique o tipo de leaderbaord que deseja `credits`, `level` ou `rep`",
+    "MOBILE": ":confused: Estou detectando que você usa smarthphone.... A leaderboard não fica disponivel em telas pequenas ou de smarthphones num geral. Tente novamente em um notebook ou pc!"
+}
